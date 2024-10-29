@@ -24,8 +24,5 @@
 
 // updated this 7/16/24
 
-let token = null;
-let latest = 0;
-let category = 'https://www.strrev.com/apisite/catalog/v1/search/items?category=Featured&limit=28&sortType=0';
 
 
